@@ -22,6 +22,7 @@ Installation
 Install $project by running:
 
     install project
+    .. image:: https://mc2-web.s3.us-east-2.amazonaws.com/698347358340370938245/media/proteinstructure/m/12_2_1_0_1_600.png
 
 Contribute
 ----------
