@@ -19,6 +19,10 @@ Features
 Installation
 ------------
 
+The analysis of the similarities and dissimilarities between active and inactive molecules gives a "feeling" of how structural variations can change biological properties and helps recognize the structural elements that are important for biological activities. Molecular mimicry consists of introducing these elements in an entirely new molecule, which is chemically unrelated to the structure of the known reference compounds (at least in part).
+
+
+
 .. tabs::
 
    .. tab:: Apples
